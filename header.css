@@ -1,0 +1,16 @@
+.go_to_table{
+  border: 1px solid rgb(1, 151, 235);
+  background: rgb(73, 245, 193);
+  display: inline-block;
+  width: calc(99% / 6);
+  height: 65px;
+  text-align: center;
+  padding-top: 25px;
+  float: left;
+}
+#buttons{
+  margin: 25px;
+  width: 80%;
+  height: 65px;
+  margin-left: 10%;
+}
